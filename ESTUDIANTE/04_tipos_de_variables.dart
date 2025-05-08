@@ -16,5 +16,5 @@ void main() {
 
   String nombre = 'Lenin';
   int edad = 32;
-  print('Mi nombre es ' + nombre + 'y tengo ' + edad);
+  print('Mi nombre es ' + nombre + 'y tengo ');
 }
