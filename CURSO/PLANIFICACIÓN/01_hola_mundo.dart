@@ -1,4 +1,4 @@
-/// El hola mundo en Dart 
+/// El hola mundo en Dart
 /// es un programa sencillo que imprime "Hola Mundo" en la consola.
 /// se compone de una función principal llamada main
 /// que es el punto de entrada del programa.
