@@ -5,9 +5,9 @@ void main() {
   String nombre = 'Lenin';
   int edad = 32;
 
-  print('1 Mi nombre es ' + nombre + ' y tengo ' + edad.toStringAsFixed(0));
-  print('2 Mi nombre es ' + nombre + ' y tengo ' + edad.toString());
-  print('3 Mi nombre es $nombre y tengo $edad');
+  print('1) Mi nombre es ' + nombre + ' y tengo ' + edad.toStringAsFixed(0));
+  print('2) Mi nombre es ' + nombre + ' y tengo ' + edad.toString());
+  print('3) Mi nombre es $nombre y tengo $edad');
 
   /// 2. Usar el double.parse pero en lugar de guardar "10.1" ("Pepito").
   /// Qué sucede?
